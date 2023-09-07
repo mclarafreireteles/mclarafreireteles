@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mariaclarafreireteles@gmail.com**
 
-- ⚡ Fun fact **I have a dog called "Apolo"🐶 and I play drums 🥁**
+- ⚡ Fun fact **I have a dog called Apolo 🐶 and I play drums 🥁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
