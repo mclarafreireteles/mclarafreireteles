@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently studying **Sistemas e Mídias Digitais at Universidade Federal do Ceará**
 
+- 🌱 I’m currently learning **CSS Grid Layout, CSS Tailwind, SaSS.**
+
+- 📫 How to reach me **mariaclarafreireteles@gmail.com**
+
 - ⚡ Fun fact **I have a dog called "Apolo"🐶 and I play drums 🥁**
 
 <h3 align="left">Connect with me:</h3>
