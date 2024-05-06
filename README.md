@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maria Clara Freire Teles</h1>
-<h3 align="center">A passionate frontend developer from Ceará, Brazil</h3>
+<h3 align="center">Frontend developer from Ceará, Brazil</h3>
 
 - 🔭 I’m currently studying **Sistemas e Mídias Digitais at Universidade Federal do Ceará**
 
-- 🌱 I’m currently learning **CSS Grid Layout, CSS Tailwind, SaSS.**
+- 🌱 I’m currently learning **CSS Tailwind, SaSS.**
 
 - 📫 How to reach me **mariaclarafreireteles@gmail.com**
 
