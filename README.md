@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Sistemas e Mídias Digitais at Universidade Federal do Ceará**
 
-- 🌱 I’m currently learning **CSS Tailwind, SaSS.**
+- 🌱 I’m currently learning **Python, React.**
 
 - 📫 How to reach me **mariaclarafreireteles@gmail.com**
 
