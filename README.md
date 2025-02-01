@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Clara Freire Teles</h1>
-<h3 align="center">Frontend developer from Ceará, Brazil</h3>
+<h3 align="center">Developer from Ceará, Brazil</h3>
 
 - 🔭 I’m currently studying **Sistemas e Mídias Digitais at Universidade Federal do Ceará**
 
