@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Django<br>🎲 Fun fact: I have a dog called Apolo and I play drums</p>
+<p>📚 I'm currently learning Django<br>🎲 Fun fact: I have a dog called Apolo and I play drums</p>
 
 ###
 
