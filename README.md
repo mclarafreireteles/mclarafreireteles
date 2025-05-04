@@ -6,7 +6,7 @@
 
 ###
 
-<p>📚 I'm currently learning Express e MongoDB<br>🐶 Fun fact: I have a dog called Apolo and I play drums</p>
+<p>📚 I'm currently learning Express e MongoDB</p>
 
 ###
 
